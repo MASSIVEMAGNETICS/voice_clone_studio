@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BANDO-FI AI: Music Idea Generator",
+  "description": "BANDO-FI AI is an AI-powered music generation assistant that helps you create ideas for beats, melodies, and song structures using a futuristic, dark-themed interface. Enter a prompt and let the AI generate a musical concept for you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
